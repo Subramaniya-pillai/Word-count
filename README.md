@@ -6,16 +6,15 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1: 
-OPEN VISUAL STUDIO CODE
-
-### Step 2: 
-Create file with .py extension
-### Step 3: 
-TYPE THE PROGRAM
-### Step 4:  
 Create a txt file to count the number of word in that file.
+### Step 2: 
+Open the txt file in read mode using open().
+### Step 3: 
+Using split() funtion to split the words in the txt file and count it.
+### Step 4:  
+Save the python program using .py extention.
 ### Step 5: 
-Run terminal for output of the given program
+Run the python program in terminal to get the output.
 ### Step 6: 
 Number of words in the txt file is displayed as the output.
 ## PROGRAM:
